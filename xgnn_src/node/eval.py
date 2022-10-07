@@ -192,7 +192,7 @@ def get_preds(true_graph, pred_graph): # use to get predictions of transition ma
         pred.append(1)
     return real, pred, total / true_graph.num_edges()
 
-def evaluate_dataset(g, selected_node, motifs, s=6, e=14, dumping_factor=0.85, ignore_self_loop=False, **karg):
+def evaluate_dataset(g, selected_node, motifs, s=5, e=7, dumping_factor=0.9, ignore_self_loop=False, **karg):
     # edge_labels = insert_edge_label(g)
     # g.edata['label'] = edge_labels
     best_options = {}
