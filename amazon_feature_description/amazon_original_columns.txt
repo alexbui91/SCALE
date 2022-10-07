@@ -1,0 +1,40 @@
+0: Number of rated products
+1: Length of username
+
+2: Number of 1 star in user's reviews
+3: Number of 2 star in user's reviews
+4: Number of 3 star in user's reviews
+5: Number of 4 star in user's reviews
+6: Number of 5 star in user's reviews
+7: Ratio of 1 star in user's reviews
+8: Ratio of 2 star in user's reviews
+9: Ratio of 3 star in user's reviews
+10: Ratio of 4 star in user's reviews
+11: Ratio of 5 star in user's reviews
+12: Ratio of negative ratings (1,2)-neg in user's reviews
+13: Ratio of positive ratings (4,5)-pos in user's reviews
+14: Entropy of ratings - \sum_{r}(percentage_r * \log percentage_{r}), smaller => skewness, larger => balance
+15: Median of ratings of 
+16: Min of ratings
+17: Max of ratings
+18: Avg of ratings
+
+19: Total number of helpful votes a user gets 
+20: Total number of unhelpful votes a user gets 
+21: The ratio of helpful votes (sum of helpful votes over reviews / total votes over reviews)
+22: The mean of helpful votes (sum of helpful votes over reviews / number of reviews)
+23: The ratio of unhelpful votes (sum of unhelpful votes over reviews / total votes over reviews)
+24: The mean of unhelpful votes (sum of unhelpful votes over reviews / number of reviews)
+25: Median of helpful votes over a user's reviews
+26: Maximum of helpful votes over a user's reviews
+27: Minimum of helpful votes over a user's reviews
+28: Median of unhelpful votes over a user's reviews
+29: Maximum of unhelpful votes over a user's reviews
+
+
+30: Min of unhelpful votes over a user's reviews
+31: Day gap
+32: Time entropy: measure over some intervals (ratio of rates in the interval)
+33: Same date indicator (Review more than one time in one date)
+34: Feedback summary length
+35: Review text sentiment
