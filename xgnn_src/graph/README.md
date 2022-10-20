@@ -23,4 +23,6 @@ python online_kd.py --dataset BA --device 0 --graph_pooling_type max --model_nam
                     --model_path ./ckpt/gcn/ba.pt --kl_term 4 --beta 5 --use_norm_adj
 ```
 
+Example model checkpoints: ckpt/gcn.tar.gz
+
 Notebooks: the folder includes all notebooks using for execute models on test sets and evaluate explanations on evaluation sets

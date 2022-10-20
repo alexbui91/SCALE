@@ -1,5 +1,5 @@
 # SCALE
-A public source code for SCALE
+A public source code for SCALE: Toward Multiple Specialty Learners for Explaining GNNs via Online Knowledge Distribution (Please check the pdf file for the preprint version)
 
 This is a part of another project. We have just copied the folder to a new branch for the submission purpose. Therefore, we are cleaning and restructure our code.
 
