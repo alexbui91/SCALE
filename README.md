@@ -5,8 +5,9 @@ This is a part of another project. We have just copied the folder to a new branc
 
 You can refer to notebook files for visualization and results. 
 
-We will update guidelines for running ASAP. Thank you very much ^^!
+Please refer to README files in ./node and ./graph for training and explanation. Thank you very much ^^!
 
+We have implemented an interactive web application based on algorithms proposed in this paper. Please checkout [https://github.com/alexbui91/INGREX](https://github.com/alexbui91/INGREX).
 
 Must-installed libraries:
 - Pytorch
