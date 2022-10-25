@@ -7,7 +7,9 @@ You can refer to notebook files for visualization and results.
 
 Please refer to README files in ./node and ./graph for training and explanation. Thank you very much ^^!
 
-We have implemented an interactive web application based on algorithms proposed in this paper. Please checkout [https://github.com/alexbui91/INGREX](https://github.com/alexbui91/INGREX).
+We have implemented an interactive web application based on algorithms proposed in this paper and named it INGREX. Please checkout [https://github.com/alexbui91/INGREX](https://github.com/alexbui91/INGREX).
+
+[![Video Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1666665645/video_to_markdown/images/youtube--3T2TojvBs0w-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/3T2TojvBs0w "")
 
 Must-installed libraries:
 - Pytorch
